@@ -465,11 +465,63 @@ This project is proprietary software. Unauthorized copying or distribution is pr
 
 ---
 
-#### 🌐 **Contact**
+#### 🌐 **Global Presence**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@yourdomain.com)
-[![Website](https://img.shields.io/badge/Website-yourdomain.com-000000?style=for-the-badge)](https://yourdomain.com)
-[![GitHub](https://img.shields.io/badge/GitHub-your--org-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-org)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Support@moparapairayat.com)
+[![Global Website](https://img.shields.io/badge/🌍%20Global-moparapairayat.com-000000?style=for-the-badge)](https://moparapairayat.com)
+[![UK Website](https://img.shields.io/badge/🇬🇧%20UK-moparapairayat.uk-000000?style=for-the-badge)](https://moparapairayat.uk)
+[![BD Website](https://img.shields.io/badge/🇧🇩%20Bangladesh-moparapairayat.bd-000000?style=for-the-badge)](https://moparapairayat.bd)
+[![SA Website](https://img.shields.io/badge/🇸🇦%20Saudi%20Arabia-moparapairayat.sa-000000?style=for-the-badge)](https://moparapairayat.sa)
+[![TR Website](https://img.shields.io/badge/🇹🇷%20Turkey-moparapairayat.tr-000000?style=for-the-badge)](https://moparapairayat.tr)
+
+---
+
+### 📍 **Regional Contact Hubs**
+
+<table>
+<tr>
+<td align="center">
+
+**🌍 Global**
+- [moparapairayat.com](https://moparapairayat.com)
+- 📧 [Support@moparapairayat.com](mailto:Support@moparapairayat.com)
+- Int'l clients & services
+
+</td>
+<td align="center">
+
+**🇬🇧 United Kingdom**
+- [moparapairayat.uk](https://moparapairayat.uk)
+- 📧 [Support@moparapairayat.uk](mailto:Support@moparapairayat.uk)
+- UK-based services
+
+</td>
+<td align="center">
+
+**🇧🇩 Bangladesh**
+- [moparapairayat.bd](https://moparapairayat.bd)
+- 📧 [Support@moparapairayat.bd](mailto:Support@moparapairayat.bd)
+- Regional operations
+
+</td>
+<td align="center">
+
+**🇸🇦 Saudi Arabia**
+- [moparapairayat.sa](https://moparapairayat.sa)
+- 📧 [Support@moparapairayat.sa](mailto:Support@moparapairayat.sa)
+- ME & regional reach
+
+</td>
+<td align="center">
+
+**🇹🇷 Turkey**
+- [moparapairayat.tr](https://moparapairayat.tr)
+- 📧 [Support@moparapairayat.tr](mailto:Support@moparapairayat.tr)
+- Turkish & EU services
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -481,10 +533,68 @@ This project is proprietary software. Unauthorized copying or distribution is pr
 
 | Platform | Link |
 |----------|------|
-| 📧 **Email** | [support@yourdomain.com](mailto:support@yourdomain.com) |
-| 🌐 **Website** | [yourdomain.com](https://yourdomain.com) |
-| 💼 **GitHub** | [your-org](https://github.com/your-org) |
-| 🔗 **LinkedIn** | [Company Profile](https://linkedin.com/company/your-company) |
+| 📧 **Email** | [Support@moparapairayat.com](mailto:Support@moparapairayat.com) |
+| 🌐 **Portfolio** | [Live Demo](https://sultan-personal-portfolio-islamic.vercel.app/) |
+| 💼 **GitHub** | [Moparapairayat](https://github.com/Moparapairayat) |
+| 🔗 **LinkedIn** | [Profile](https://linkedin.com/in/your-profile) |
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📧 **Official Business Emails**
+
+**Always Active for Contracts & Inquiries:**
+
+<table>
+<tr>
+<td width="50%">
+
+[Moparapairayat@gmail.com](mailto:Moparapairayat@gmail.com)
+→ General contracts
+
+</td>
+<td width="50%">
+
+[Moparapairayatbd@gmail.com](mailto:Moparapairayatbd@gmail.com)
+→ Bangladesh inquiries
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💬 **WhatsApp Project Inquiry Lines**
+
+<table>
+<tr>
+<td align="center">
+
+**🇺🇸 Personal Projects**
+[+1 724-315-5810](https://wa.me/17243155810)
+
+</td>
+<td align="center">
+
+**💼 Corporate/Large**
+[+1 719-680-2913](https://wa.me/17196802913)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**🤖 ML & AML**
+[+8801955000704](https://wa.me/8801955000704)
+
+</td>
+<td align="center">
+
+**🔒 Security & Servers**
+[+8801305868621](https://wa.me/8801305868621)
 
 </td>
 </tr>
@@ -494,7 +604,7 @@ This project is proprietary software. Unauthorized copying or distribution is pr
 
 ### 🚀 **Let's Build Something Great Together!**
 
-If you'd like a demo or custom integration, contact us anytime.
+Whether you have a project idea, need consultation, or just want to connect, reach out through any channel above.
 
 </div>
 
@@ -533,9 +643,10 @@ Join the community!
 </tr>
 </table>
 
-**Give a Star ⭐ if you found this helpful!**
+**[Give a Star ⭐](https://github.com/Moparapairayat/Advanced-University-Management-System) if you found this helpful!**
 
 ---
+
 
 ### Made with ❤️ by **FraudShield Team**
 
