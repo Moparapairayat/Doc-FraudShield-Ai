@@ -648,7 +648,7 @@ Join the community!
 ---
 
 
-### Made with ❤️ by **FraudShield Team**
+### Made with ❤️ by **FraudShield { MOPARA PAIR AYAT }**
 
 *Building safer document workflows with AI.*
 
