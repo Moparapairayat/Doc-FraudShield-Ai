@@ -278,7 +278,7 @@ npm --version    # 8.0.0+
 
 #### Step 1️⃣ Clone Repository
 ```bash
-git clone <YOUR_GIT_URL>
+git clone https://github.com/Moparapairayat/Doc-FraudShield-Ai.git
 cd doc-trust-ai
 ```
 
